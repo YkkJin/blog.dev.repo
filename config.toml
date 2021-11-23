@@ -1,20 +1,15 @@
-title = "Yukun Jin"
+title = "YK J"
 baseURL = "https://example.com"
 languageCode = "en-us"
 theme = "ananke"
 resourceDir = "../static"
 
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "zh"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
-[languages]
-  [languages.en]
-    title = "Yukun Jin"
-    weight = 1
-    contentDir = "content/en"
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
