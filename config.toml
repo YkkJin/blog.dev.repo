@@ -21,20 +21,12 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  author = "123"
+  author = "yk"
   favicon = ""
   site_logo = ""
-  description = "The last theme you'll ever need. Maybe."
-  facebook = ""
-  twitter = "https://twitter.com/GoHugoIO"
-  instagram = ""
-  youtube = ""
   github = ""
-  gitlab = ""
-  linkedin = ""
+  linkedin = "https://linkedin.com/in/yukunjin"
   mastodon = ""
-  slack = ""
-  stackoverflow = ""
   rss = ""
   tiktok = ""
 
