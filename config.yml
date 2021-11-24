@@ -14,6 +14,13 @@ minify:
   disableXML: true
   minifyOutput: true
 
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: ExampleSite
@@ -122,6 +129,11 @@ menu:
       name: Tags
       url: /tags/
       weight: 30
+    - identifier: search
+      name: Search
+      url: /search/
+
+
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
