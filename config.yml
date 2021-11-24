@@ -8,11 +8,14 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
+math: true
+
 googleAnalytics: UA-123-45
 
 minify:
   disableXML: true
   minifyOutput: true
+
 
 outputs:
     home:
