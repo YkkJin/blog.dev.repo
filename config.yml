@@ -1,4 +1,4 @@
-baseURL: "https://examplesite.com/"
+baseURL: "https://ykkjin.github.io"
 title: ExampleSite
 paginate: 5
 theme: PaperMod
@@ -26,8 +26,8 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
+  title: Yukun Jin
+  description: "YK | 不定期更新文档"
   keywords: [Blog, Portfolio, PaperMod]
   author: yk
   # author: ["Me", "You"] # multiple authors
