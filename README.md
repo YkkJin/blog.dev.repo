@@ -6,5 +6,5 @@ This is the developing repo for my Github Page.
   - [x] render block math
   - [x] render inline math
 - [ ] write a blog using KeTex
-- [ ] link with production repo
+- [x] link with production repo
 - [ ] further optimization...
