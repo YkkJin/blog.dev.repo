@@ -2,3 +2,7 @@
 [submodule "public"]
 	path = public
 	url = git@github.com:YkkJin/ykkjin.github.io.git
+[submodule "ykkjin.github.io"]
+	path = ykkjin.github.io
+	url = git@github.com:YkkJin/ykkjin.github.io.git
+	branch = main
