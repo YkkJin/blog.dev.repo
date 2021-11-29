@@ -5,6 +5,8 @@ This is the developing repo for my Github Page.
 - [x] add KaTex support
   - [x] render block math
   - [x] render inline math
-- [ ] write a blog using KeTex
 - [x] link with production repo
-- [ ] further optimization...
+- [ ] write a blog using KeTex
+- [ ] add deploy.sh(or github workflow)
+- [ ] change logo and favicon
+- [ ] 
