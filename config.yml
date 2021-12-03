@@ -61,7 +61,7 @@ params:
     favicon16x16: "/favicon-16x16.png"
     favicon32x32: "/favicon-32x32.png"
     apple_touch_icon: "/apple_touch_icon"
-    safari_pinned_tab: "<link / abs url>"
+    #safari_pinned_tab: "<link / abs url>"
 
   label:
     text: "YK Jin"
