@@ -24,6 +24,6 @@ cd ..
 echo ""
 echo ""
 echo "Committing changes to $(pwd)"
-git add public
+git add .
 git commit -m "${msg}"
 git push
