@@ -8,6 +8,6 @@ summary:
 tags: [""]
 showtoc: true
 draft: false
-renderMath: false
-copyMath: false
+math: true
+copyMath: true
 ---
